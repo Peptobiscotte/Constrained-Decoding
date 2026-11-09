@@ -1,10 +1,8 @@
-*This activity has been created as part of the 42 curriculum by mmonnier.*
-
-# Call Me Maybe
+# Constrained-Decoding
 
 ## Description
 
-Call Me Maybe is a Python activity focused on **LLM function calling through constrained decoding**.
+Constrained-Decoding is a Python activity focused on **LLM function calling through constrained decoding**.
 
 The goal is to take a natural-language user request, select the most appropriate function from a predefined set of function definitions, extract the required arguments, and produce a valid structured JSON result.
 
